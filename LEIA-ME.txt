@@ -1,0 +1,18 @@
+SITE DRA. VANESSA AVILA — INSTRUÇÕES
+
+1. Abra index.html e procure por:
+   const WHATSAPP = 'https://wa.me/55SEUNUMERO';
+   const INSTAGRAM = 'https://www.instagram.com/SEUUSUARIO/';
+   Substitua pelo número e usuário corretos.
+
+2. Procure por todas as ocorrências de:
+   https://SEU-USUARIO.github.io/SEU-REPOSITORIO/
+   Troque pelo endereço real do GitHub Pages.
+
+3. No primeiro envio pelo formulário, o FormSubmit enviará uma mensagem de confirmação para:
+   dravanessaavila@gmail.com
+   É necessário clicar no botão de confirmação.
+
+4. Não altere os nomes dos arquivos da pasta imagens, salvo se também alterar no HTML.
+
+5. O site já contém CSS e JavaScript dentro do próprio index.html. Só é necessária a pasta imagens.
